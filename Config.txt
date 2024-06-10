@@ -1,0 +1,6 @@
+servidor=
+nome_banco=
+usuario=
+senha=
+intervalo=
+pdv=
